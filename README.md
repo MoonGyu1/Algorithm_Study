@@ -2,4 +2,4 @@
 
 ### studying __Algorithm__ at GNUVIL in HUFS
 
-[programmers](https://programmers.co.kr/learn/challenges + "go to programmers")
+[programmers](https://programmers.co.kr/learn/challenges "go to programmers")
